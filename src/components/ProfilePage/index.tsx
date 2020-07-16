@@ -1,5 +1,6 @@
 import React from 'react';
 
+import Feed from '../Feed';
 import {
   Container,
   Banner,
@@ -47,6 +48,8 @@ const ProfilePage: React.FC = () => {
           </span>
         </Follwage>
       </ProfileData>
+
+      <Feed />
     </Container>
   );
 };
