@@ -22,7 +22,7 @@
   <img src="./src/assets/website.png">
   <br>
   <br>
-  <a href="https://twitter-clone-app.netlify.app/" target="_blank">
+  <a href="https://clone-twitter-app.netlify.app/" target="_blank">
     <img src="./src/assets/button_visit.png" alt="visit" style="width: 100px">
   </a>
 </p>
