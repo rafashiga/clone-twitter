@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img  src="./src/assets/twitter.png" alt="discord">
+  <img  src="./src/assets/twitter1.png" alt="discord">
   <br>
   Twitter Clone
 </h1>
